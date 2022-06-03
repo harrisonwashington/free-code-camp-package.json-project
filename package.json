@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "harrison",
+	"description": "Manage Node.js projects and npm packages using package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
