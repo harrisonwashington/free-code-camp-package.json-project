@@ -1,7 +1,14 @@
-{
+	{
 	"name": "fcc-learn-npm-package-json",
 	"author": "harrison",
 	"description": "Manage Node.js projects and npm packages using package.json",
+	"keywords": [
+		"freecodecamp",
+		"manage",
+		"node.js",
+		"npm",
+		"json"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
